@@ -184,7 +184,7 @@
       "name": "ateam.options.team_mate_stun_bg_color",
       "default_value": "goldenrod",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ateam"
       ]
@@ -193,7 +193,7 @@
       "name": "ateam.options.team_mate_stun_fg_color",
       "default_value": "black",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ateam"
       ]
@@ -202,7 +202,7 @@
       "name": "ateam.options.enemy_stun_bg_color",
       "default_value": "orchid",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ateam"
       ]
@@ -211,7 +211,7 @@
       "name": "ateam.options.enemy_stun_fg_color",
       "default_value": "black",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ateam"
       ]
@@ -220,14 +220,14 @@
       "name": "ateam.options.broken_defense_bg_color",
       "default_value": "LightPink",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
       "name": "ateam.options.broken_defense_fg_color",
       "default_value": "black",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
@@ -998,10 +998,27 @@
     {
       "name": "scripts.people.trigger_guilds",
       "default_value": [
-        "CKN", "ES", "SC", "KS", "KM", "OS",
-        "OHM", "SGW", "PE", "WKS", "LE", "KG",
-        "KGKS", "MC", "OK", "RA", "GL", "ZT",
-        "ZS", "ZH", "GP"
+        "CKN",
+        "ES",
+        "SC",
+        "KS",
+        "KM",
+        "OS",
+        "OHM",
+        "SGW",
+        "PE",
+        "WKS",
+        "LE",
+        "KG",
+        "KGKS",
+        "MC",
+        "OK",
+        "RA",
+        "GL",
+        "ZT",
+        "ZS",
+        "ZH",
+        "GP"
       ],
       "field_type": "list",
       "macros_on_modify": [
@@ -1020,7 +1037,7 @@
       "name": "scripts.people.name_color",
       "default_value": "yellow",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_people"
       ]
@@ -1029,7 +1046,7 @@
       "name": "scripts.people.guild_color",
       "default_value": "dark_orange",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_people"
       ]
@@ -1429,14 +1446,14 @@
       "name": "scripts.ui.bind_color",
       "default_value": "LawnGreen",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
       "name": "scripts.inv.magics_color",
       "default_value": "tomato",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_magics"
       ]
@@ -1445,7 +1462,7 @@
       "name": "scripts.inv.magic_keys_color",
       "default_value": "green_yellow",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_magics"
       ]
@@ -1454,7 +1471,7 @@
       "name": "scripts.tcolor_color",
       "default_value": "orange",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
@@ -1487,7 +1504,7 @@
       "name": "scripts.gag_colors.moje_ciosy",
       "default_value": "alice_blue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1496,7 +1513,7 @@
       "name": "scripts.gag_colors.moje_spece",
       "default_value": "green_yellow",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1505,7 +1522,7 @@
       "name": "scripts.gag_colors.innych_ciosy",
       "default_value": "LightGrey",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1514,7 +1531,7 @@
       "name": "scripts.gag_colors.innych_ciosy_we_mnie",
       "default_value": "pink",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1523,7 +1540,7 @@
       "name": "scripts.gag_colors.innych_spece",
       "default_value": "slate_grey",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1532,7 +1549,7 @@
       "name": "scripts.gag_colors.moje_uniki",
       "default_value": "SteelBlue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1541,7 +1558,7 @@
       "name": "scripts.gag_colors.innych_uniki",
       "default_value": "dark_slate_grey",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1550,7 +1567,7 @@
       "name": "scripts.gag_colors.moje_parowanie",
       "default_value": "SteelBlue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1559,7 +1576,7 @@
       "name": "scripts.gag_colors.innych_parowanie",
       "default_value": "dark_slate_gray",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1568,7 +1585,7 @@
       "name": "scripts.gag_colors.zaslony_udane",
       "default_value": "deep_sky_blue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1577,7 +1594,7 @@
       "name": "scripts.gag_colors.zaslony_nieudane",
       "default_value": "dark_slate_blue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1586,7 +1603,7 @@
       "name": "scripts.gag_colors.bron",
       "default_value": "gold",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -1595,7 +1612,7 @@
       "name": "scripts.gag_colors.npc",
       "default_value": "floral_white",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": [
         "_ux"
       ]
@@ -2454,14 +2471,14 @@
       "name": "amap.ui.location_marker.color",
       "default_value": "pale_violet_red",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
       "name": "amap.ui.location_marker.color2",
       "default_value": "alice_blue",
       "field_type": "string",
-      "content_type" : "mudlet_color",
+      "content_type": "mudlet_color",
       "macros_on_modify": []
     },
     {
@@ -2486,7 +2503,7 @@
       "name": "scripts.sounds.beep",
       "default_value": "",
       "field_type": "string",
-      "content_type" : "file_path",
+      "content_type": "file_path",
       "macros_on_modify": []
     },
     {
@@ -2529,6 +2546,742 @@
       "name": "scripts.ui.auto_wrap_main_window.enabled",
       "default_value": false,
       "field_type": "boolean",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.people.enemy_guilds",
+      "default_value": [],
+      "field_type": "list",
+      "macros_on_modify": [
+        "_people"
+      ]
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.0",
+      "default_value": [
+        "'W pelni wypoczety.",
+        "'W pelni sil."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.1",
+      "default_value": [
+        "'Wypoczety."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.2",
+      "default_value": [
+        "'Troche zmeczony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.3",
+      "default_value": [
+        "'Zmeczony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.4",
+      "default_value": [
+        "'Bardzo zmeczony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.5",
+      "default_value": [
+        "'Nieco wyczerpany."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.6",
+      "default_value": [
+        "'Wyczerpany."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.7",
+      "default_value": [
+        "'Bardzo wyczerpany."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.8",
+      "default_value": [
+        "'Wycienczony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_male.9",
+      "default_value": [
+        "'Calkowicie wycienczony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.0",
+      "default_value": [
+        "'W pelni wypoczeta.",
+        "'W pelni sil."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.1",
+      "default_value": [
+        "'Wypoczeta."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.2",
+      "default_value": [
+        "'Troche zmeczona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.3",
+      "default_value": [
+        "'Zmeczona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.4",
+      "default_value": [
+        "'Bardzo zmeczona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.5",
+      "default_value": [
+        "'Nieco wyczerpana."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.6",
+      "default_value": [
+        "'Wyczerpana"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.7",
+      "default_value": [
+        "'Bardzo wyczerpana."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.8",
+      "default_value": [
+        "'Wycienczona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.fatigue.options_female.9",
+      "default_value": [
+        "'Calkowicie wycienczona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.0",
+      "default_value": [
+        "'Brak obciazenia"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.1",
+      "default_value": [
+        "'Wadzi mi troche."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.2",
+      "default_value": [
+        "'Daje mi sie we znaki."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.3",
+      "default_value": [
+        "'Ekwipunek jest dosc klopotliwy."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.4",
+      "default_value": [
+        "'Ekwipunek jest wyjatkowo ciezki."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.5",
+      "default_value": [
+        "'Ekwipunek jest niemilosiernie ciezki"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_male.6",
+      "default_value": [
+        "'Ekwipunek przygniata mnie do ziemi."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.0",
+      "default_value": [
+        "'Brak obciazenia"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.1",
+      "default_value": [
+        "'Wadzi mi troche."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.2",
+      "default_value": [
+        "'Daje mi sie we znaki."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.3",
+      "default_value": [
+        "'Ekwipunek jest dosc klopotliwy."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.4",
+      "default_value": [
+        "'Ekwipunek jest wyjatkowo ciezki."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.5",
+      "default_value": [
+        "'Ekwipunek jest niemilosiernie ciezki"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.encumbrance.options_female.6",
+      "default_value": [
+        "'Ekwipunek przygniata mnie do ziemi."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_male.0",
+      "default_value": [
+        "'Bardzo glodny"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_male.1",
+      "default_value": [
+        "'Glodny."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_male.2",
+      "default_value": [
+        "'Najedzony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_male.3",
+      "default_value": [
+        "'Bardzo najedzony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_female.0",
+      "default_value": [
+        "'Bardzo glodna"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_female.1",
+      "default_value": [
+        "'Glodna."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_female.2",
+      "default_value": [
+        "'Najedzona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.stuffed.options_female.3",
+      "default_value": [
+        "'Bardzo najedzona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_male.0",
+      "default_value": [
+        "'Bardzo chce mi sie pic",
+        "'Bardzo spragniony"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_male.1",
+      "default_value": [
+        "'Chce mi sie pic.",
+        "'Spragniony"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_male.2",
+      "default_value": [
+        "'Troche chce mi sie pic.",
+        "'Troche spragniony"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_male.3",
+      "default_value": [
+        "'Nie chce mi sie pic."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_female.0",
+      "default_value": [
+        "'Bardzo chce mi sie pic",
+        "'Bardzo spragniona"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_female.1",
+      "default_value": [
+        "'Chce mi sie pic.",
+        "'Spragniona"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_female.2",
+      "default_value": [
+        "'Troche chce mi sie pic.",
+        "'Troche spragniona"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.soaked.options_female.3",
+      "default_value": [
+        "'Nie chce mi sie pic."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.0",
+      "default_value": [
+        "'Trzezwy"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.1",
+      "default_value": [
+        "'Pochmielony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.2",
+      "default_value": [
+        "'Lekko podpity."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.3",
+      "default_value": [
+        "'Podpity."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.4",
+      "default_value": [
+        "'Wstawiony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.5",
+      "default_value": [
+        "'Mocno wstawiony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.6",
+      "default_value": [
+        "'Pijany."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.7",
+      "default_value": [
+        "'Schlany."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.8",
+      "default_value": [
+        "'Napruty."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.9",
+      "default_value": [
+        "'Nawalony."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_male.10",
+      "default_value": [
+        "'Pijany jak bela."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.0",
+      "default_value": [
+        "'Trzezwa"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.1",
+      "default_value": [
+        "'Pochmielona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.2",
+      "default_value": [
+        "'Lekko podpita."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.3",
+      "default_value": [
+        "'Podpita."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.4",
+      "default_value": [
+        "'Wstawiona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.5",
+      "default_value": [
+        "'Mocno wstawiona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.6",
+      "default_value": [
+        "'Pijana."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.7",
+      "default_value": [
+        "'Schlana."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.8",
+      "default_value": [
+        "'Napruta."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.9",
+      "default_value": [
+        "'Nawalona."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.intox.options_female.10",
+      "default_value": [
+        "'Pijana jak bela."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.0",
+      "default_value": [
+        "'Jestem u kresu sil mentalnych"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.1",
+      "default_value": [
+        "'Jestem wykonczony mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.2",
+      "default_value": [
+        "'Jestem wyczerpana mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.3",
+      "default_value": [
+        "'Jestem w zlej kondycji mentalnej."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.4",
+      "default_value": [
+        "'Jestem bardzo zmeczony mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.5",
+      "default_value": [
+        "'Jestem zmeczony mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.6",
+      "default_value": [
+        "'Jestem oslabiony mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.7",
+      "default_value": [
+        "'Jestem lekko oslabony mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_male.8",
+      "default_value": [
+        "'Jestem w pelni sil mentalnych."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.0",
+      "default_value": [
+        "'Jestem u kresu sil mentalnych"
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.1",
+      "default_value": [
+        "'Jestem wykonczona mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.2",
+      "default_value": [
+        "'Jestem wyczerpana mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.3",
+      "default_value": [
+        "'Jestem w zlej kondycji mentalnej."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.4",
+      "default_value": [
+        "'Jestem bardzo zmeczona mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.5",
+      "default_value": [
+        "'Jestem zmeczona mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.6",
+      "default_value": [
+        "'Jestem oslabiona mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.7",
+      "default_value": [
+        "'Jestem lekko oslabona mentalnie."
+      ],
+      "field_type": "list",
+      "macros_on_modify": []
+    },
+    {
+      "name": "scripts.character.state_reporting.mana.options_female.8",
+      "default_value": [
+        "'Jestem w pelni sil mentalnych."
+      ],
+      "field_type": "list",
       "macros_on_modify": []
     }
   ]
